@@ -6,7 +6,7 @@ package com.li.springbootshardingjdbc.model;/**
 
 /**
 
- * @author lihaodong
+ * @author yangzhuohao
 
  * @create 2018-11-15 14:21
 
